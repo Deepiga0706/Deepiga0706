@@ -43,7 +43,7 @@ me.say_hi()
 
 ## 🙋‍♀️ About Me
 
-I'm a **first-year Computer & Communication Engineering student** at Sri Eshwar College of Engineering, Coimbatore, driven by a genuine love for building things that matter. I spend my time crafting full-stack web applications, solving algorithmic challenges, and exploring how AI can solve real-world problems.
+I'm a **Third-year Computer & Communication Engineering student** at Sri Eshwar College of Engineering, Coimbatore, driven by a genuine love for building things that matter. I spend my time crafting full-stack web applications, solving algorithmic challenges, and exploring how AI can solve real-world problems.
 
 - 🎓 **B.E. CCE** @ SECE — CGPA **8.3** (IIIrd Sem) | Graduated XII with **85%**
 - 💻 **MERN Stack** developer with hands-on internship experience
@@ -104,7 +104,7 @@ I'm a **first-year Computer & Communication Engineering student** at Sri Eshwar 
 
 ## 🚀 Featured Projects
 
-### 🎯 [Placement Readiness Tracker](https://github.com/deepiga-rs) `2026`
+### 🎯 [Placement Readiness Tracker](https://github.com/Deepiga0706/placement_readiness_tracker) `2026`
 
 > *Know where you stand before the recruiter does.*
 
@@ -120,7 +120,7 @@ Analyzes GitHub repositories to estimate placement readiness, detect technology 
 
 ---
 
-### 🎓 [College Classification AI Bot](https://github.com/deepiga-rs) `2025`
+### 🎓 [College Classification AI Bot]`2025`
 
 > *Your personal college counsellor — minus the wait time.*
 
@@ -135,7 +135,7 @@ An intelligent conversational chatbot that recommends colleges based on user pre
 
 ---
 
-### 🛡️ [GigShield-AI](https://github.com/deepiga-rs) `2025`
+### 🛡️ [GigShield-AI](https://github.com/Deepiga0706/gigshield-AI) `2025`
 
 > *Insurance that adapts to the gig economy.*
 
@@ -152,7 +152,7 @@ A parametric insurance platform purpose-built for gig delivery workers, featurin
 
 ---
 
-### 🍽️ [EatEazy – Smart Food Ordering](https://github.com/deepiga-rs) `2024`
+### 🍽️ [EatEazy – Smart Food Ordering] `2024`
 
 > *Goodbye queues. Hello campus canteen, reimagined.*
 
@@ -216,22 +216,12 @@ Long-term Vision     →  Build scalable, AI-augmented products that solve real 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=deepiga-rs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="170" src=https://vercel.com/deepiga-s-projects&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepiga-rs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
-<div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepiga-rs&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepiga-rs&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
 
 ---
 
