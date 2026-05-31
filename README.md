@@ -212,12 +212,6 @@ Long-term Vision     →  Build scalable, AI-augmented products that solve real 
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src=https://vercel.com/deepiga-s-projects&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepiga-rs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
